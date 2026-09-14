@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="645" height="40" viewBox="0 0 645 40" role="img" aria-label="Java, Go, Ruby, Rust, Python, TypeScript, Vue">
+  <g font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#C9D1D9">
+    <g>
+      <rect x="0" y="0" width="77" height="40" rx="20" fill="#161B22" stroke="#30363D"/>
+      <circle cx="25" cy="20" r="4" fill="#E76F00"/>
+      <text x="37" y="25">Java</text>
+    </g>
+    <g>
+      <rect x="87" y="0" width="61" height="40" rx="20" fill="#161B22" stroke="#30363D"/>
+      <circle cx="112" cy="20" r="4" fill="#00ADD8"/>
+      <text x="124" y="25">Go</text>
+    </g>
+    <g>
+      <rect x="158" y="0" width="77" height="40" rx="20" fill="#161B22" stroke="#30363D"/>
+      <circle cx="183" cy="20" r="4" fill="#CC342D"/>
+      <text x="195" y="25">Ruby</text>
+    </g>
+    <g>
+      <rect x="245" y="0" width="75" height="40" rx="20" fill="#161B22" stroke="#30363D"/>
+      <circle cx="270" cy="20" r="4" fill="#DEA584"/>
+      <text x="282" y="25">Rust</text>
+    </g>
+    <g>
+      <rect x="330" y="0" width="94" height="40" rx="20" fill="#161B22" stroke="#30363D"/>
+      <circle cx="355" cy="20" r="4" fill="#FFD343"/>
+      <text x="367" y="25">Python</text>
+    </g>
+    <g>
+      <rect x="434" y="0" width="127" height="40" rx="20" fill="#161B22" stroke="#30363D"/>
+      <circle cx="459" cy="20" r="4" fill="#3178C6"/>
+      <text x="471" y="25">TypeScript</text>
+    </g>
+    <g>
+      <rect x="571" y="0" width="70" height="40" rx="20" fill="#161B22" stroke="#30363D"/>
+      <circle cx="596" cy="20" r="4" fill="#41B883"/>
+      <text x="608" y="25">Vue</text>
+    </g>
+  </g>
+</svg>

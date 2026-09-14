@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Leo Liao (softlg) - building page-aware AI agents">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0v32" fill="none" stroke="#182338" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="veil" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B1220" stop-opacity="0"/>
+      <stop offset="0.7" stop-color="#0B1220" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#0B1220" stop-opacity="0.92"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="#0B1220"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <rect width="1280" height="320" fill="url(#veil)"/>
+  <rect x="0" y="0" width="1280" height="4" fill="url(#accent)"/>
+
+  <rect x="72" y="100" width="6" height="112" rx="3" fill="url(#accent)"/>
+
+  <text x="106" y="146" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="700" fill="#F8FAFC">Leo Liao</text>
+  <text x="108" y="186" font-family="'JetBrains Mono',Consolas,'SF Mono',monospace" font-size="19" fill="#7C8DA6">@softlg</text>
+  <text x="106" y="224" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="21" fill="#C3CEDE">Full-stack developer · Java-first</text>
+  <text x="106" y="252" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" fill="#5C6B82">java · go · ruby · rust · python · typescript · vue</text>
+
+  <rect x="742" y="86" width="466" height="148" rx="12" fill="#0F1728" stroke="#1E2A3F"/>
+  <circle cx="772" cy="116" r="4" fill="#22C55E"/>
+  <text x="788" y="122" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" fill="#8FA3BD">whoami</text>
+  <text x="772" y="152" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#E3E9F2">Leo Liao — full-stack developer</text>
+  <circle cx="772" cy="184" r="4" fill="#14B8A6"/>
+  <text x="788" y="190" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" fill="#8FA3BD">focus</text>
+  <text x="772" y="218" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#E3E9F2">currently learning AI agents</text>
+
+  <text x="1208" y="252" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" fill="#4A5A72">github.com/softlg</text>
+</svg>
