@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/banner.svg" alt="Leo Liao (softlg)" width="100%">
+</div>
+
 ## Hi, I'm Leo Liao
 
 Full-stack developer. Java is my main language; I also work in Go, TypeScript, Python, Ruby and Rust, and build interfaces with Vue.
